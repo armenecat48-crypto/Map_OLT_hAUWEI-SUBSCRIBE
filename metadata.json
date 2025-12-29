@@ -1,0 +1,7 @@
+{
+  "name": "Gemini OLT Maps Explorer",
+  "description": "A sophisticated interactive map explorer for HUAWEI OLT devices, featuring real-time searching by CAT ID and integrated Gemini AI analysis for infrastructure monitoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
